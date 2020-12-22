@@ -1,0 +1,17 @@
+super + F3
+    st -e  ranger
+
+super + F2
+    firefox
+
+alt + shift + Escape
+        pkill -USR1 -x sxhkd
+
+XF86MonBrightnessUp
+         xbacklight -inc 20
+
+XF86MonBrightnessDown
+         xbacklight -dec 20
+
+ctrl + Escape
+	st -e htop
