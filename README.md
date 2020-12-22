@@ -1,5 +1,5 @@
 # linux_configs
-Contains configs for dwm, st
+Contains configs for dwm, st, Sxhkd
 
 This runs on a machine that runs gentoo without a login manager. Use at own risk.
 Sxhkd is used for keybinds since this is much easier to configure
